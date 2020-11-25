@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  flex-direction: column;
+}
+
+main{
+  display: Flex;
+  flex-direction: row;
+}
+
+article{
+  flex-grow: 3;
+  display: flex;
+  flex-direction: column;
+}
+
+asode{
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+img{
+  max-width: 500px;
+}
